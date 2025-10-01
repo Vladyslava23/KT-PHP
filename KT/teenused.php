@@ -46,9 +46,40 @@
     </nav>
 
 
+
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-    <div class="py-5 mb-4 bg-body-tertiary"
-         style ="background:url('https://i.pinimg.com/736x/57/60/24/5760242ac074589973f2b5dbfc2589e1.jpg') center/cover no-repeat;background-size: cover; 
+
+  
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-text ms-auto"></span>
+    </button>
+
+   
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+      <ul class="navbar-nav text-center">
+       
+        <li class="nav-item">
+          <a class="navbar-brand" href="index.php">Turismibüroo</a>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="index2.html">Avaleht</a></li>
+        <li class="nav-item"><a class="nav-link" href="tooted.html">Tooted</a></li>
+        <li class="nav-item"><a class="nav-link" href="teenused.html">Teenused</a></li>
+        <li class="nav-item"><a class="nav-link" href="ostukorv.html">Ostukorv</a></li>
+        <li class="nav-item"><a class="nav-link" href="kontakt.html">Kontakt</a></li>
+      </ul>
+    </div>
+
+  </div>
+</nav>
+
+      
+ <div class="py-5 mb-4 bg-body-tertiary"
+ 
+         style ="background:url('https://i.pinimg.com/1200x/74/a7/0c/74a70ca5e401f81f002e97b710baa7b8.jpg') center/cover no-repeat;background-size: cover; 
       background-position: center;
       color: white;
       text-align: start-center;
@@ -56,12 +87,31 @@
       height: 400px;">
     <div class="container py-5">
       <div class="row">
-         <div class="container h-100 d-flex flex-column justify-content-center align-items-center">
-          <h1 class="display-5 fw-bold text-white text-shadow">Meie toodet</h1>
-          <p class="text-white-60">Vali endale sobiv toode!</p>
+         <div class="container h-100 d-flex flex-column justify-content-center ">
+          <h1 class="display-5 fw-bold text-white text-shadow">Kõik meie ekskursioonid</h1>
+          <p class="text-white-60">Iga reis on uus kogemus.</p>
           </div>
         </div>
       </div>
     </div>
   </div> 
 
+
+
+  <div class="container">
+      <div class="row">
+      <div class="container h-100 d-flex flex-column justify-content-center align-items-center">
+        <h1 class="text-center mt-3 display-5 mb-4">Kuumad ekskursioonid</h1>
+      </div>
+      </div>
+</div>
+
+<div class="col-md-4 p-3">
+          <div class="col">
+            <div class="card-body text-center">
+            </div>
+          </div>
+</div>
+
+</body>
+</html>

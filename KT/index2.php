@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <title>Turismibüroo</title>
+
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <span class="navbar-text">
+            <div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-at" viewBox="0 0 16 16">
+  <path d="M2 2a2 2 0 0 0-2 2v8.01A2 2 0 0 0 2 14h5.5a.5.5 0 0 0 0-1H2a1 1 0 0 1-.966-.741l5.64-3.471L8 9.583l7-4.2V8.5a.5.5 0 0 0 1 0V4a2 2 0 0 0-2-2zm3.708 6.208L1 11.105V5.383zM1 4.217V4a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v.217l-7 4.2z"/>
+  <path d="M14.247 14.269c1.01 0 1.587-.857 1.587-2.025v-.21C15.834 10.43 14.64 9 12.52 9h-.035C10.42 9 9 10.36 9 12.432v.214C9 14.82 10.438 16 12.358 16h.044c.594 0 1.018-.074 1.237-.175v-.73c-.245.11-.673.18-1.18.18h-.044c-1.334 0-2.571-.788-2.571-2.655v-.157c0-1.657 1.058-2.724 2.64-2.724h.04c1.535 0 2.484 1.05 2.484 2.326v.118c0 .975-.324 1.39-.639 1.39-.232 0-.41-.148-.41-.42v-2.19h-.906v.569h-.03c-.084-.298-.368-.63-.954-.63-.778 0-1.259.555-1.259 1.4v.528c0 .892.49 1.434 1.26 1.434.471 0 .896-.227 1.014-.643h.043c.118.42.617.648 1.12.648m-2.453-1.588v-.227c0-.546.227-.791.573-.791.297 0 .572.192.572.708v.367c0 .573-.253.744-.564.744-.354 0-.581-.215-.581-.8Z"/>
+</svg>
+            <i class="fa-regular fa-envelope"></i> sinu@nimi.ee
+            
+            </div>
+            <div>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone-inbound" viewBox="0 0 16 16">
+  <path d="M15.854.146a.5.5 0 0 1 0 .708L11.707 5H14.5a.5.5 0 0 1 0 1h-4a.5.5 0 0 1-.5-.5v-4a.5.5 0 0 1 1 0v2.793L15.146.146a.5.5 0 0 1 .708 0m-12.2 1.182a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+</svg>
+            <i class="fa-solid fa-headphones-simple"></i> +372 123 456
+            </div>
+          </span>
+          <span class="navbar-text ml-auto">
+            <a class="text-primary text-decoration-none" href="#">Est</a> | 
+            <a class="text-primary text-decoration-none" href="#">Eng</a> | 
+            <a class="text-primary text-decoration-none" href="#">Rus</a>
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-translate" viewBox="0 0 16 16">
+  <path d="M4.545 6.714 4.11 8H3l1.862-5h1.284L8 8H6.833l-.435-1.286zm1.634-.736L5.5 3.956h-.049l-.679 2.022z"/>
+  <path d="M0 2a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v3h3a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-3H2a2 2 0 0 1-2-2zm2-1a1 1 0 0 0-1 1v7a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1zm7.138 9.995q.289.451.63.846c-.748.575-1.673 1.001-2.768 1.292.178.217.451.635.555.867 1.125-.359 2.08-.844 2.886-1.494.777.665 1.739 1.165 2.93 1.472.133-.254.414-.673.629-.89-1.125-.253-2.057-.694-2.82-1.284.681-.747 1.222-1.651 1.621-2.757H14V8h-3v1.047h.765c-.318.844-.74 1.546-1.272 2.13a6 6 0 0 1-.415-.492 2 2 0 0 1-.94.31"/>
+</svg>
+
+          </span>
+        </div>
+      </div>
+    </nav>
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+
+  
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-text ms-auto"></span>
+    </button>
+
+   
+    <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+      <ul class="navbar-nav text-center">
+       
+        <li class="nav-item">
+          <a class="navbar-brand" href="index.php">Turismibüroo</a>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="index2.html">Avaleht</a></li>
+        <li class="nav-item"><a class="nav-link" href="tooted.html">Tooted</a></li>
+        <li class="nav-item"><a class="nav-link" href="teenused.html">Teenused</a></li>
+        <li class="nav-item"><a class="nav-link" href="ostukorv.html">Ostukorv</a></li>
+        <li class="nav-item"><a class="nav-link" href="kontakt.html">Kontakt</a></li>
+        
+      </ul>
+    </div>
+
+  </div>
+</nav>
+
+      
+ <div class="py-5 mb-4 bg-body-tertiary"
+ 
+         style ="background:url('https://i.pinimg.com/1200x/a6/2b/b1/a62bb185762487d62014e913d9b658be.jpg') center/cover no-repeat;background-size: cover; 
+      background-position: center;
+      color: white;
+      text-align: start-center;
+      width: 100%;
+      height: 400px;">
+    <div class="container py-5">
+      <div class="row">
+         <div class="container h-100 d-flex flex-column justify-content-center align-items-center">
+          <h1 class="display-5 fw-bold text-white text-shadow">Jet2Holiday</h1>
+          <p class="text-white-60">Wave goodbye to stress today, choose Jet2Holiday, okey? Pack your dreams and fly away, find your paridise in May.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+
+
+
+<div class="container my-5 text-center">
+  <!-- Заголовок над поиском -->
+  <h4 class="mb-3">Leia parimad pakkumised sinu sihtkohta</h4>
+
+  <form class="d-flex justify-content-center">
+    <!-- Поле поиска -->
+    <input class="form-control w-50 mr-2" type="search" placeholder="Otsi linna, riigi, piirkonna või reisi teema järgi" aria-label="Search">
+    
+    <!-- Кнопка -->
+    <button class="btn btn-warning" type="submit">Otsi</button>
+  </form>
+</div>
+
+<div class="container">
+      <div class="row">
+      <div class="container h-100 d-flex flex-column justify-content-center align-items-center">
+        <h1 class="text-center mt-3 display-5 mb-4">Meie teenused</h1>
+      </div>
+      </div>
+</div>
+
+
+
+
+
+        <div class="col-md-4 p-3">
+          <div class="col">
+            <div class="card-body text-center">
+            </div>
+          </div>
+        </div>
+        
+
+
+
+
+
+<div class="container">
+      <div class="row">
+        <div class="col-md-4 p-3">
+          <div class="col">
+            <div class="card-body text-center">
+              <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-airplane-fill" viewBox="0 0 16 16">
+              <path d="M6.428 1.151C6.708.591 7.213 0 8 0s1.292.592 1.572 1.151C9.861 1.73 10 2.431 10 3v3.691l5.17 2.585a1.5 1.5 0 0 1 .83 1.342V12a.5.5 0 0 1-.582.493l-5.507-.918-.375 2.253 1.318 1.318A.5.5 0 0 1 10.5 16h-5a.5.5 0 0 1-.354-.854l1.319-1.318-.376-2.253-5.507.918A.5.5 0 0 1 0 12v-1.382a1.5 1.5 0 0 1 .83-1.342L6 6.691V3c0-.568.14-1.271.428-1.849"/>
+              </svg>
+              <h5 class="card-title mt-2 mb-2">Lorem sipsum</h5>
+              <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores sit voluptates id, rerum itaque dicta ea ullam expedita consequatur pariatur nostrum quo corrupti quaerat delectus omnis magni eligendi repudiandae tenetur.</p>
+              <button type="button" class="btn btn-warning">Warning</button>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 p-3">
+          <div class="col">
+            <div class="card-body text-center">
+              <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-train-freight-front-fill" viewBox="0 0 16 16">
+              <path d="M5.736 0a1.5 1.5 0 0 0-.67.158L1.828 1.776A1.5 1.5 0 0 0 1 3.118v5.51l2-.6V5a1 1 0 0 1 1-1h8a1 1 0 0 1 1 1v3.028l2 .6v-5.51a1.5 1.5 0 0 0-.83-1.342L10.936.158A1.5 1.5 0 0 0 10.264 0zM15 9.672l-5.503-1.65A.5.5 0 0 0 9.353 8H8.5v8h4a2.5 2.5 0 0 0 2.5-2.5zM7.5 16V8h-.853a.5.5 0 0 0-.144.021L1 9.672V13.5A2.5 2.5 0 0 0 3.5 16zm-1-14h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1M12 5v2.728l-2.216-.665A1.5 1.5 0 0 0 9.354 7H8.5V5zM7.5 5v2h-.853a1.5 1.5 0 0 0-.431.063L4 7.728V5zm-4 5a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1m9 0a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1M5 13a1 1 0 1 1-2 0 1 1 0 0 1 2 0m7 1a1 1 0 1 1 0-2 1 1 0 0 1 0 2"/>
+              </svg>
+              <h5 class="card-title mt-2 mb-2">Lorem sipsum</h5>
+              <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores sit voluptates id, rerum itaque dicta ea ullam expedita consequatur pariatur nostrum quo corrupti quaerat delectus omnis magni eligendi repudiandae tenetur.</p>
+              <button type="button" class="btn btn-warning">Warning</button>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 p-3">
+          <div class="col">
+            <div class="card-body text-center">
+              <svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" fill="currentColor" class="bi bi-bus-front" viewBox="0 0 16 16">
+              <path d="M5 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0m8 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0m-6-1a1 1 0 1 0 0 2h2a1 1 0 1 0 0-2zm1-6c-1.876 0-3.426.109-4.552.226A.5.5 0 0 0 3 4.723v3.554a.5.5 0 0 0 .448.497C4.574 8.891 6.124 9 8 9s3.426-.109 4.552-.226A.5.5 0 0 0 13 8.277V4.723a.5.5 0 0 0-.448-.497A44 44 0 0 0 8 4m0-1c-1.837 0-3.353.107-4.448.22a.5.5 0 1 1-.104-.994A44 44 0 0 1 8 2c1.876 0 3.426.109 4.552.226a.5.5 0 1 1-.104.994A43 43 0 0 0 8 3"/>
+              <path d="M15 8a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1V2.64c0-1.188-.845-2.232-2.064-2.372A44 44 0 0 0 8 0C5.9 0 4.208.136 3.064.268 1.845.408 1 1.452 1 2.64V4a1 1 0 0 0-1 1v2a1 1 0 0 0 1 1v3.5c0 .818.393 1.544 1 2v2a.5.5 0 0 0 .5.5h2a.5.5 0 0 0 .5-.5V14h6v1.5a.5.5 0 0 0 .5.5h2a.5.5 0 0 0 .5-.5v-2c.607-.456 1-1.182 1-2zM8 1c2.056 0 3.71.134 4.822.261.676.078 1.178.66 1.178 1.379v8.86a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 11.5V2.64c0-.72.502-1.301 1.178-1.379A43 43 0 0 1 8 1"/>
+              </svg>
+              <h5 class="card-title mt-2 mb-2">lorem sipsum</h5>
+              <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores sit voluptates id, rerum itaque dicta ea ullam expedita consequatur pariatur nostrum quo corrupti quaerat delectus omnis magni eligendi repudiandae tenetur.</p>
+              <button type="button" class="btn btn-warning">Warning</button>
+            </div>
+          </div>
+        </div>
+      
+
+
+
+<div class="container">
+      <div class="row">
+      <div class="container h-100 d-flex flex-column justify-content-center align-items-center">
+        <h1 class="text-center mt-3 display-5 mb-4">Kuumad ekskursioonid</h1>
+      </div>
+      </div>
+</div>
+
+<div class="col-md-4 p-3">
+          <div class="col">
+            <div class="card-body text-center">
+            </div>
+          </div>
+</div>
+
+<div class="row mt-5 text-center">
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/1200x/0b/ea/ce/0beace4686e36f7936f01ce273679885.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/1200x/de/ab/a7/deaba788c126ab8b25c3a175ab665273.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/1200x/5a/87/1c/5a871c8be2715ac58fa5e7299fd4acd9.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/1200x/1c/1e/b6/1c1eb67149c3e3bc8cef02e9c516266a.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+      </div>
+
+
+      <div class="row mt-5 text-center">
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/736x/56/e0/80/56e080024cadd46b7b78465b885d4833.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/736x/f4/95/b0/f495b0ca8e80ca7703e93bdb75cc58a6.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/1200x/be/77/6f/be776f8f4dcc96e2b36dac5dd6f00873.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+        <div class="col-md-3">
+          <div class="card" style="width: 18rem;">
+  <img src="https://i.pinimg.com/1200x/c5/0d/22/c50d220a3f57e4bbaa32602b01d8e51a.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card’s content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+      </div>
+      </div>
+    </div>
+
+
+
+
+
+
+
+
+    
+
+ 
+
+<div class="container mt-5">
+    <h2>Kalkulaator</h2>
+    <form action="calculate.php" method="post">
+        <div class="form-group">
+            <label for="people">Inimeste arv:</label>
+            <input type="number" class="form-control" id="people" name="people" required>
+        </div>
+        <div class="form-group">
+            <label for="additional_services">Lisateenused:</label>
+            <select class="form-control" id="additional_services" name="additional_services">
+                <option value="0">Ei</option>
+                <option value="50">Giid (50 EUR)</option>
+                <option value="30">Kindlustus (30 EUR)</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-success">Arvuta</button>
+    </form>
+</div>
+
+<div class="container mt-5">
+    <h2>Kontakt</h2>
+    <div id="map" style="height: 400px;"></div>
+    <form action="contact.php" method="post">
+        <div class="form-group">
+            <label for="name">Nimi:</label>
+            <input type="text" class="form-control" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+            <label for="email">E-post:</label>
+            <input type="email" class="form-control" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+            <label for="message">Sõnum:</label>
+            <textarea class="form-control" id="message" name="message" rows="3" required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Saada</button>
+    </form>
+</div>
+
+
+ </body>
+</html>
