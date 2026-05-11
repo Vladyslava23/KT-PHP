@@ -1,0 +1,30 @@
+body {
+    background: #f8f9fa;
+}
+.hero-overlay {
+    background: linear-gradient(90deg, rgba(0,0,0,.58), rgba(0,0,0,.18));
+    border-radius: 1rem;
+}
+.carousel-item img {
+    height: 420px;
+    object-fit: cover;
+}
+.book-img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.book-img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.price-tag {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+.icon-box {
+    border-radius: 1rem;
+    background: #fff;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.06);
+}

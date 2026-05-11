@@ -1,0 +1,38 @@
+2026-03-09 18:22:42 | raamatuid: 0 | vahesumma: 0.00 | kinkepakend: 0.00 | kood: 10 | kokku: 0.00
+2026-03-09 18:44:09 | raamatuid: 0 | vahesumma: 0.00 | kinkepakend: 0.00 | kood: - | kokku: 0.00
+2026-03-09 19:02:08 | raamatuid: 1 | vahesumma: 35.68 | kinkepakend: 0.00 | kood: - | kokku: 35.68
+2026-03-09 19:02:26 | raamatuid: 0 | vahesumma: 0.00 | kinkepakend: 0.00 | kood: RAAMAT10 | kokku: 0.00
+2026-03-09 19:02:42 | raamatuid: 1 | vahesumma: 35.68 | kinkepakend: 0.00 | kood: RAAPAT10 | kokku: 35.68
+2026-03-09 19:07:41 | raamatuid: 2 | vahesumma: 41.69 | kinkepakend: 4.00 | soodustus: 4.57 | kokku: 41.12 | kood: RAAMAT10
+2026-03-09 19:14:06 | raamatuid: 2 | vahesumma: 65.35 | kinkepakend: 4.00 | soodustus: 6.94 | kokku: 62.42 | kood: RAAMAT10
+2026-03-09 19:37:50 | raamatuid: 2 | vahesumma: 65.35 | kinkepakend: 4.00 | soodustus: 6.94 | kokku: 62.42 | kood: RAAMAT10
+2026-03-11 16:38:32 | raamatuid: 1 | vahesumma: 29.67 | kinkepakend: 2.00 | soodustus: 3.17 | kokku: 28.50 | kood: RAAMAT10
+2026-03-11 16:39:42 | raamatuid: 1 | vahesumma: 29.67 | kinkepakend: 2.00 | soodustus: 3.17 | kokku: 28.50 | kood: RAAMAT10
+2026-03-11 16:39:44 | raamatuid: 1 | vahesumma: 29.67 | kinkepakend: 2.00 | soodustus: 3.17 | kokku: 28.50 | kood: RAAMAT10
+2026-03-11 16:39:45 | raamatuid: 1 | vahesumma: 29.67 | kinkepakend: 2.00 | soodustus: 3.17 | kokku: 28.50 | kood: RAAMAT10
+2026-03-11 16:39:47 | raamatuid: 1 | vahesumma: 29.67 | kinkepakend: 2.00 | soodustus: 3.17 | kokku: 28.50 | kood: RAAMAT10
+2026-03-11 16:39:48 | raamatuid: 1 | vahesumma: 29.67 | kinkepakend: 2.00 | soodustus: 3.17 | kokku: 28.50 | kood: RAAMAT10
+2026-03-11 16:39:51 | raamatuid: 1 | vahesumma: 29.67 | kinkepakend: 2.00 | soodustus: 3.17 | kokku: 28.50 | kood: RAAMAT10
+2026-03-11 16:45:17 | raamatuid: 1 | vahesumma: 39.76 | kinkepakend: 2.00 | soodustus: 0.00 | kokku: 41.76 | kood: -
+2026-03-11 16:45:34 | raamatuid: 1 | vahesumma: 39.76 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 39.76 | kood: -
+2026-03-11 16:49:05 | raamatuid: 0 | vahesumma: 0.00 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 0.00 | kood: -
+2026-03-11 16:49:21 | raamatuid: 3 | vahesumma: 69.71 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 69.71 | kood: -
+2026-03-11 16:50:40 | raamatuid: 3 | vahesumma: 69.71 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 69.71 | kood: -
+2026-03-11 16:50:49 | raamatuid: 5 | vahesumma: 90.45 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 90.45 | kood: -
+2026-03-11 16:50:54 | raamatuid: 5 | vahesumma: 90.45 | kinkepakend: 10.00 | soodustus: 0.00 | kokku: 100.45 | kood: -
+2026-03-11 16:51:06 | raamatuid: 5 | vahesumma: 90.45 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 90.45 | kood: -
+2026-03-11 16:51:26 | raamatuid: 5 | vahesumma: 90.45 | kinkepakend: 10.00 | soodustus: 10.05 | kokku: 90.41 | kood: RAAMAT10
+2026-03-11 16:51:40 | raamatuid: 5 | vahesumma: 90.45 | kinkepakend: 10.00 | soodustus: 0.00 | kokku: 100.45 | kood: -
+2026-03-11 16:57:46 | raamatuid: 1 | vahesumma: 35.68 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 35.68 | kood: -
+2026-03-11 16:57:48 | raamatuid: 1 | vahesumma: 35.68 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 35.68 | kood: -
+2026-03-11 17:30:07 | raamatuid: 5 | vahesumma: 82.46 | kinkepakend: 10.00 | soodustus: 0.00 | kokku: 92.46 | kood: -
+2026-03-11 17:31:14 | raamatuid: 5 | vahesumma: 82.46 | kinkepakend: 10.00 | soodustus: 0.00 | kokku: 92.46 | kood: -
+2026-03-11 17:31:29 | raamatuid: 5 | vahesumma: 82.46 | kinkepakend: 10.00 | soodustus: 9.25 | kokku: 83.21 | kood: RAAMAT10
+2026-03-11 17:38:21 | raamatuid: 9 | vahesumma: 146.42 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 146.42 | kood: -
+2026-03-11 17:39:04 | raamatuid: 9 | vahesumma: 146.42 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 146.42 | kood: -
+2026-03-11 17:39:30 | raamatuid: 2 | vahesumma: 21.98 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 21.98 | kood: -
+2026-03-11 17:39:31 | raamatuid: 2 | vahesumma: 21.98 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 21.98 | kood: -
+2026-03-11 19:37:45 | raamatuid: 4 | vahesumma: 50.57 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 50.57 | kood: -
+2026-03-11 19:37:49 | raamatuid: 4 | vahesumma: 50.57 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 50.57 | kood: -
+2026-03-11 20:42:41 | raamatuid: 7 | vahesumma: 90.65 | kinkepakend: 0.00 | soodustus: 0.00 | kokku: 90.65 | kood: -
+2026-03-11 20:43:02 | raamatuid: 7 | vahesumma: 90.65 | kinkepakend: 14.00 | soodustus: 0.00 | kokku: 104.65 | kood: -
